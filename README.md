@@ -1,4 +1,4 @@
-<h1 align="left">Hi<img src="./hi.gif" height="30" width="30px">, I'm Pedro Faria</h1>
+<h1 align="left">Hi<img src="./hi.gif" height="30" width="30px">,I'm Pedro Faria</h1>
 
 - 🔥 Frontend developer focused on building clean and user-friendly interfaces
 
@@ -39,10 +39,10 @@
 ## 🔗 &nbsp;Social Links
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pedro-faria/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-pedro-faria-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/pedro-leonardo-faria/" target="_blank">
+    <img align="center" src="https://media.licdn.com/dms/image/v2/D4D03AQF92yPHFIMjyw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1690784623427?e=1751500800&v=beta&t=gMSbQRz1SyitIPPvETPawQSdHtHiMejvsi43S1_uwCE" alt="linkedin"/>
   </a>
-  <a href="https://instagram.com/pedro_faria" target="_blank">
+  <a href="https://instagram.com/pedro.faria01" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-pedro_faria-05122A?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </p>
