@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/pedro-leonardo-faria/" target="_blank">
     <img align="center" src="https://media.licdn.com/dms/image/v2/D4D03AQF92yPHFIMjyw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1690784623427?e=1751500800&v=beta&t=gMSbQRz1SyitIPPvETPawQSdHtHiMejvsi43S1_uwCE" alt="linkedin"/>
   </a>
-  <a href="https://instagram.com/pedro.faria01" target="_blank">
+  <a href="https://instagram.com/pedro.faria1" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-pedro_faria-05122A?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </p>
