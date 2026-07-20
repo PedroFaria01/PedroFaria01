@@ -1,12 +1,24 @@
-<h1 align="left">Hi<img src="./hi.gif" height="30" width="30px">,I'm Pedro Faria</h1>
+<h1 align="left">Hi 👋, I'm Pedro Faria</h1>
 
 - 🔥 Frontend developer focused on building clean and user-friendly interfaces
 
-- 🔭 I’m currently learning advanced CSS, React and state management
+- 🔭 I'm currently learning advanced CSS, React and state management
 
 - 💬 Ask me about  **HTML, CSS, JavaScript, React** and **UX/UI design**
 
 - ⚡ In my spare time I enjoy reading, gaming, and exploring new tech trends
+
+<br><br>
+
+## 🚀 &nbsp;Portfolio
+
+<p align="left">
+  <a href="https://pedrofaria01.github.io/PedroFaria-CV/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20my%20interactive%20CV-5AD1E6?style=for-the-badge&logo=react&logoColor=white" alt="portfolio"/>
+  </a>
+</p>
+
+An interactive, scroll-driven career journey built with React — walk through my career chapter by chapter.
 
 <br><br>
 
@@ -31,7 +43,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-faria&layout=compact&theme=vision-friendly-dark" alt="pedro's most languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroFaria01&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="pedro's github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFaria01&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="pedro's most languages"/>
 </p>
 
 <br><br>
@@ -40,9 +53,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-leonardo-faria/" target="_blank">
-    <img align="center" src="https://media.licdn.com/dms/image/v2/D4D03AQF92yPHFIMjyw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1690784623427?e=1751500800&v=beta&t=gMSbQRz1SyitIPPvETPawQSdHtHiMejvsi43S1_uwCE" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-Pedro%20Faria-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/pedro.faria1" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-pedro_faria-05122A?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+  <a href="mailto:pedro_faria01@hotmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="email"/>
   </a>
 </p>
