@@ -1,0 +1,54 @@
+# Place this file at: .github/workflows/metrics.yml (in your PedroFaria01/PedroFaria01 repo)
+#
+# Setup:
+# 1. Create a GitHub Personal Access Token (classic) with scope: read:user
+#    https://github.com/settings/tokens/new
+# 2. In your PedroFaria01/PedroFaria01 repo, go to Settings > Secrets and variables > Actions
+#    and add a new secret named METRICS_TOKEN with that token as the value.
+# 3. Commit this file, then run it once manually from the Actions tab
+#    (or wait for the daily schedule) to generate github-metrics.svg at the repo root.
+# 4. README.md already references ./github-metrics.svg once it exists.
+
+name: Metrics
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *" # every day at 03:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_message: "chore: update metrics"
+
+          # General appearance
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+
+          # Featured repositories (pinned-style)
+          plugin_repositories: yes
+          plugin_repositories_featured: PedroFaria-CV, crimson-painting-store, Everything-Box
+
+          # Language breakdown (recent activity based, lighter than indepth analysis)
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_details: bytes-size, percentage
+
+          # Isometric commit calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Coding habits / recent activity
+          plugin_habits: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
