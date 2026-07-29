@@ -48,30 +48,13 @@ An interactive, scroll-driven career journey built with React — walk through m
 
 ## 📌 &nbsp;Featured Projects
 
-<p align="left">
-  <a href="https://github.com/PedroFaria01/PedroFaria-CV" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroFaria01&repo=PedroFaria-CV&theme=vision-friendly-dark&hide_border=true" alt="PedroFaria-CV"/>
-  </a>
-  <a href="https://github.com/PedroFaria01/crimson-painting-store" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroFaria01&repo=crimson-painting-store&theme=vision-friendly-dark&hide_border=true" alt="crimson-painting-store"/>
-  </a>
-  <a href="https://github.com/PedroFaria01/Everything-Box" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroFaria01&repo=Everything-Box&theme=vision-friendly-dark&hide_border=true" alt="Everything-Box"/>
-  </a>
-</p>
-
-- **PedroFaria-CV** — interactive, scroll-driven résumé/portfolio built with React
-- **crimson-painting-store** — D&D miniatures e-commerce prototype (React + Vite, Tailwind, EUR/English)
-- **Everything-Box** — a small tool with local AI that assists with everyday work tasks (TypeScript)
+- **[PedroFaria-CV](https://github.com/PedroFaria01/PedroFaria-CV)** — interactive, scroll-driven résumé/portfolio built with React
+- **[crimson-painting-store](https://github.com/PedroFaria01/crimson-painting-store)** — D&D miniatures e-commerce prototype (React + Vite, Tailwind, EUR/English)
+- **[Everything-Box](https://github.com/PedroFaria01/Everything-Box)** — a small tool with local AI that assists with everyday work tasks (TypeScript)
 
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroFaria01&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="pedro's github stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFaria01&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="pedro's most languages"/>
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroFaria01&theme=vision-friendly-dark&hide_border=true" alt="pedro's streak stats"/>
@@ -85,14 +68,6 @@ An interactive, scroll-driven career journey built with React — walk through m
 </p>
 
 <sup>Want more plugins (isometric calendar, languages breakdown, etc.)? Run it yourself via the GitHub Action in `metrics.yml` — see notes below.</sup>
-
-<br>
-
-## 🏆 &nbsp;Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroFaria01&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
 
 <br>
 
