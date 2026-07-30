@@ -1,4 +1,6 @@
-<img src="./assets/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%" alt="header banner"/>
+<div align="center">
+
+<img src="./assets/HeaderPedroFaria.gif" width="100%" alt="header banner"/>
 
 <h1>Hi 👋, I'm Pedro Faria</h1>
 
@@ -52,13 +54,7 @@ An interactive, scroll-driven career journey built with React — walk through m
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroFaria01&theme=vision-friendly-dark&hide_border=true" alt="pedro's streak stats"/>
-</p>
-
-### 📊 Extended Metrics ([lowlighter/metrics](https://github.com/lowlighter/metrics))
+## ⚙️ &nbsp;GitHub Analytics ([lowlighter/metrics](https://github.com/lowlighter/metrics))
 
 <!-- Rendered instantly via the free shared instance — no GitHub Action needed. -->
 <p align="left">
