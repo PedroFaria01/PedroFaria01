@@ -4,6 +4,95 @@
 
 <h1>Hi 👋, I'm Pedro Faria</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5AD1E6&center=true&vCenter=true&width=600&lines=Frontend+Developer+%286%2B+yrs%29;AI-Assisted+Development+with+Claude;React.js+%7C+Next.js+%7C+MCP+%26+Agentic+Systems;Open+to+freelance+%26+job+opportunities" alt="Typing SVG" />
+
+</div>
+
+- 🚀 Frontend Developer with 6+ years building with React.js, Next.js and React Native — full-stack capable across Node.js, .NET/C# and MySQL
+- 🤖 Currently deepening into AI-assisted software development — completed Anthropic's applied AI curriculum (RAG, MCP, multi-agent systems)
+- 🎓 Anthropic-certified: Claude Platform & API · Claude Code · Agentic Systems (MCP, Agent Skills)
+- 💬 Ask me about React, Next.js, Claude Code / MCP workflows and AI-assisted developer tooling
+- 🤝 **Open to freelance work and new projects** — feel free to reach out!
+- ⚡ In my spare time I enjoy reading, gaming, and exploring new tech trends
+
+<br>
+
+## 🚀 &nbsp;Portfolio
+
+<p align="left">
+  <a href="https://pedrofaria01.github.io/PedroFaria-CV/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20my%20interactive%20CV-5AD1E6?style=for-the-badge&logo=react&logoColor=white" alt="portfolio"/>
+  </a>
+</p>
+
+An interactive, scroll-driven career journey built with React — walk through my career chapter by chapter.
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
+
+<br>
+
+## 📌 &nbsp;Featured Projects
+
+- **[PedroFaria-CV](https://github.com/PedroFaria01/PedroFaria-CV)** — interactive, scroll-driven résumé/portfolio built with React
+- **[crimson-painting-store](https://github.com/PedroFaria01/crimson-painting-store)** — D&D miniatures e-commerce prototype (React + Vite, Tailwind, EUR/English)
+- **[Everything-Box](https://github.com/PedroFaria01/Everything-Box)** — local-AI desktop assistant that streamlines everyday development work (TypeScript)
+
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics ([lowlighter/metrics](https://github.com/lowlighter/metrics))
+
+<!-- Rendered instantly via the free shared instance — no GitHub Action needed. -->
+<p align="left">
+  <img src="https://metrics.lecoq.io/PedroFaria01" alt="detailed metrics"/>
+</p>
+
+<sup>Want more plugins (isometric calendar, languages breakdown, etc.)? Run it yourself via the GitHub Action in `metrics.yml` — see notes below.</sup>
+
+<br>
+
+## 🔗 &nbsp;Social Links
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedro-leonardo-faria/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Pedro%20Faria-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/pedro.faria1" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-pedro_faria-05122A?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+  <a href="mailto:pedro_faria01@hotmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="email"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PedroFaria01&label=Profile%20views&color=5AD1E6&style=flat" alt="profile views"/>
+</p>
+<div align="center">
+
+<img src="./assets/HeaderPedroFaria.gif" width="100%" alt="header banner"/>
+
+<h1>Hi 👋, I'm Pedro Faria</h1>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5AD1E6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+TypeScript+Enthusiast;Building+clean%2C+user-friendly+interfaces;Open+to+freelance+%26+job+opportunities" alt="Typing SVG" />
 
 </div>
